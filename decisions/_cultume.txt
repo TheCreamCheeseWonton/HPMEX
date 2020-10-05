@@ -1,0 +1,37 @@
+political_decisions = {
+
+    Swiss_germany = {
+        picture = ems_dispatch
+        potential = {
+	tag = GSW
+            NOT = { has_global_flag = german_switzerland }
+        }
+	allow = {
+	GSW = {
+			all_core = {
+				OR = {
+					owned_by = THIS
+				}
+			}
+	}
+	}
+        effect = {
+	  set_global_flag = german_switzerland 
+	GSW = { all_cores = { limit = { your limits } remove_core = SWI } }
+	any_owned = {				
+			limit = {			
+				is_core = GSW	
+			}
+			add_core = GER		
+		}
+            }
+        
+
+        ai_will_do = {
+            factor = 1
+
+        }
+    }
+}
+
+

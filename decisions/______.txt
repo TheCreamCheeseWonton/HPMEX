@@ -1,0 +1,29 @@
+political_decisions = {
+
+    germanization = {
+        picture = ems_dispatch
+        potential = {
+        NOT = { has_country_flag = greater_g }
+		or = {
+		tag = VOL
+		tag = RIG
+		tag = BAN
+		}
+        }
+	effect = {
+	set_country_flag = greater_g
+		any_owned = {
+		add_province_modifier = {
+	name = cultural_revitalization
+	duration = 2645
+}
+        }
+		}
+
+        ai_will_do = {
+            factor = 1
+
+			}
+		}
+	
+}
