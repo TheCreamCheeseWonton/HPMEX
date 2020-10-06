@@ -1007,7 +1007,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 2800
+        size = 8800
     }
 }
 #Karahisar Region (336000)
@@ -1337,7 +1337,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 4750
+        size = 14750
     }
 
     aristocrats = {
@@ -1573,7 +1573,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 1875
+        size = 11875
     }
 }
 #Karaman Region (820000)
@@ -1833,7 +1833,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 2800
+        size = 9800
     }
 }
 #Central Anatolia Region (692000)
@@ -2405,7 +2405,7 @@
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
@@ -2417,13 +2417,13 @@
     artisans = {
         culture = greek
         religion = orthodox
-        size = 650
+        size = 750
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 12225
+        size = 25225
     }
 
     aristocrats = {
@@ -2521,7 +2521,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 4700
+        size = 18700
     }
 }
 #Giresun (140000/35000 POPS)

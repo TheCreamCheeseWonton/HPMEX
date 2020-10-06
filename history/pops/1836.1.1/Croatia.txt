@@ -33,27 +33,45 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 20625
+    }
+
+    farmers = {
+        culture = serb
+        religion = catholic
+        size = 2625
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = greek
+        religion = catholic
+        size = 700
     }
 
     farmers = {
@@ -660,25 +678,25 @@
 #Fiume (52000/13000 POPS)
 778 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 4700
     }
@@ -735,6 +753,12 @@
         culture = hungarian
         religion = catholic
         size = 700
+    }
+
+    farmers = {
+        culture = greek
+        religion = catholic
+        size = 300
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
